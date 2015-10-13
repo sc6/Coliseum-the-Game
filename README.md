@@ -1,6 +1,8 @@
 <h3>Coliseum</h3>
 
-<strong>A project by Steve Chang (August 2013)</strong>
+<strong>A project by Steve Chang.</strong>
+
+August 2013
 
 
 
