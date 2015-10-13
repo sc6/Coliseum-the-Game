@@ -1,9 +1,6 @@
 <h3>Coliseum</h3>
 
-<strong>A project by Steve Chang.</strong>
-
-August 2013
-
+<strong>A project by Steve Chang. (Aug '13)</strong>
 
 
 I made this game after finishing my first computer science course in college. This project taught me a lot about game design
