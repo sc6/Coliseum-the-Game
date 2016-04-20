@@ -5,7 +5,7 @@
 A text-based game where the player takes on the role of a gladiator and fight monsters in search for fame and fortune. The application was built using Java.
 <br><br>
 <strong>Quick Start Guide:</strong><br>
-1. Run <code>coliseum.jar</code>.
+1. Enter <code>java -jar coliseum.jar</code> in Terminal.
 
 
 
